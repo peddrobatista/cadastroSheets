@@ -35,5 +35,5 @@ Certifique-se de que você tenha instalado os seguintes softwares:
    ```
 
    ```bash
-   pip install pandas
+   pip install pandas requests
    ```
