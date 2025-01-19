@@ -24,7 +24,7 @@ Certifique-se de que você tenha instalado os seguintes softwares:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/peddrobatista/cadastroSheets.git
 
    ```
 
@@ -34,4 +34,6 @@ Certifique-se de que você tenha instalado os seguintes softwares:
    pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
    ```
 
+   ```bash
    pip install pandas
+   ```
